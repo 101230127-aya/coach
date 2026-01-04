@@ -1,4 +1,4 @@
-import 'package:flutter_application_1/models.dart/class_model.dart';
+import 'package:flutter_application_1/models/class_model.dart';
 import 'package:flutter/material.dart';
 
 class ClassesScreen extends StatefulWidget {
