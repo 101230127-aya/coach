@@ -15,6 +15,9 @@ class TodoItem extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       child: ListTile(
+        onTap: () {
+          onChanged(!todo.completed);
+        },
         leading: Checkbox(
           value: todo.completed,
           onChanged: onChanged,
