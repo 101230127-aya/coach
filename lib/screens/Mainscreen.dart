@@ -1,6 +1,6 @@
-import 'package:flutter_application_1/screens.dart/attendance_screen.dart';
-import 'package:flutter_application_1/screens.dart/classes_screen.dart';
-import 'package:flutter_application_1/screens.dart/todo_screen.dart';
+import 'package:flutter_application_1/screens/attendance_screen.dart';
+import 'package:flutter_application_1/screens/classes_screen.dart';
+import 'package:flutter_application_1/screens/todo_screen.dart';
 import 'package:flutter/material.dart';
 
 class MainScreen extends StatefulWidget{
